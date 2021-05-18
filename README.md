@@ -1,8 +1,8 @@
-## Buy Me Plz Coin
+## Buy Me Plz Coin (BMP)
 Could you please buy this coin?
 
 ### Token Economics
-I don't know much about token economics... just buy me...
+I don't know much about token economics... just buy this coin...
 
 ### 2021 Road Map
 I will eat well and poop well...
