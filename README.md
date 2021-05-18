@@ -9,6 +9,7 @@ I will eat well and poop well...
 
 ### Team
 ![@coinbegger](coinbegger.jpg)
+
 [@coinbegger](http://github.com/coinbegger)
 
 ### Contract Address
