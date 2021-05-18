@@ -1,11 +1,11 @@
 ## Buy Me Plz Coin (BMP)
-Could you please buy this coin?
+Could you please buy this coin? I am very poor...
 
 ### Token Economics
 I don't know much about token economics... just buy this coin...
 
 ### 2021 Road Map
-I will eat well and poop well...
+I will eat and poop...
 
 ### Team
 ![@coinbegger](coinbegger.jpg)
